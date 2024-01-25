@@ -33,4 +33,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: matteo-grellier/projectcicd:latest
+          tags: matteogrellier/projectcicd:latest
